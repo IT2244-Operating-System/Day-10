@@ -6,3 +6,4 @@ Read three numbers ( a,b,c ) from the user and store then into three variables. 
 
 ![image](https://github.com/user-attachments/assets/e1da6892-d812-46a6-b2a9-fb2f8c4522ad)
 
+
